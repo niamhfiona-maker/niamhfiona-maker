@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niamhfiona-maker.
 - 👀 I’m interested in sailing.
-- 🌱 I’m currently learning Git-Githug and Gitlab.
+- 🌱 I’m currently learning Git-Github and Gitlab.
 - 💞️ I’m looking to collaborate on webpages for people who like sailing
 - 📫 How to reach me niamhfiona@gmail.com
 - 😄 Pronouns: She/Her
